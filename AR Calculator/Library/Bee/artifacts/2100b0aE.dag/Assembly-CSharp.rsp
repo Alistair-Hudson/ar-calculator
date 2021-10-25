@@ -401,6 +401,7 @@
 -r:"Library/Bee/artifacts/2100b0aE.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
 -r:"Library/Bee/artifacts/2100b0aE.dag/VSSettingsProvider.ref.dll"
 "Assets/Scripts/Calculator.cs"
+"Assets/Scripts/GestureUtils.cs"
 -langversion:8.0
 
 /deterministic
