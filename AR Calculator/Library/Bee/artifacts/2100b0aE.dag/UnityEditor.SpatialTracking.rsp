@@ -313,6 +313,7 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.18f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.18f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll"
+-r:"C:/Users/Alistair/InterviewTests/OverSight/ar-calculator/AR Calculator/Library/PackageCache/com.microsoft.mixedreality.input@8efb1162593a-1635225322859/Plugins/Windows/Microsoft.MixedReality.Input.DotNet.dll"
 -r:"C:/Users/Alistair/InterviewTests/OverSight/ar-calculator/AR Calculator/Library/PackageCache/com.unity.collab-proxy@1.7.1/Lib/Editor/PlasticSCM/log4netPlastic.dll"
 -r:"C:/Users/Alistair/InterviewTests/OverSight/ar-calculator/AR Calculator/Library/PackageCache/com.unity.collab-proxy@1.7.1/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll"
 -r:"C:/Users/Alistair/InterviewTests/OverSight/ar-calculator/AR Calculator/Library/PackageCache/com.unity.collab-proxy@1.7.1/Lib/Editor/PlasticSCM/unityplastic.dll"

@@ -305,6 +305,7 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.18f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Xml.Linq.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.18f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.18f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll"
+-r:"C:/Users/Alistair/InterviewTests/OverSight/ar-calculator/AR Calculator/Library/PackageCache/com.microsoft.mixedreality.input@8efb1162593a-1635225322859/Plugins/Windows/Microsoft.MixedReality.Input.DotNet.dll"
 -r:"C:/Users/Alistair/InterviewTests/OverSight/ar-calculator/AR Calculator/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll"
 -r:"C:/Users/Alistair/InterviewTests/OverSight/ar-calculator/AR Calculator/Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
 -r:"Library/Bee/artifacts/2100b0aE.dag/Microsoft.MixedReality.OpenXR.ref.dll"

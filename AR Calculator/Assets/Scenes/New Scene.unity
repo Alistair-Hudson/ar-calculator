@@ -4563,7 +4563,7 @@ GameObject:
   - component: {fileID: 1633095390}
   - component: {fileID: 1633095387}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: GestureTracker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

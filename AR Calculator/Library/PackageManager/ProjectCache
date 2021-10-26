@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637707839449590619
-    m_Hash: 2863338409
+      ticks: 637708221440380121
+    m_Hash: 1585195304
   m_LockFileStatus:
     m_FilePath: C:/Users/Alistair/InterviewTests/OverSight/ar-calculator/AR Calculator/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637707839632970272
-    m_Hash: 1657947674
+      ticks: 637708221690719424
+    m_Hash: 683295725
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -173,6 +173,20 @@ m_LocalPackages:
       serializedVersion: 2
       ticks: 637707839417450606
     m_Hash: 694836860
+  - m_FilePath: C:\Users\Alistair\InterviewTests\OverSight\ar-calculator\AR Calculator\Packages\MixedReality\com.microsoft.mixedreality.input-0.9.2006.tgz/package.json
+    m_PathExists: 0
+    m_ContentTrackingEnabled: 1
+    m_ModificationDate:
+      serializedVersion: 2
+      ticks: 0
+    m_Hash: 0
+  - m_FilePath: C:\Users\Alistair\InterviewTests\OverSight\ar-calculator\AR Calculator\Packages\MixedReality\com.microsoft.mixedreality.input-0.9.2006.tgz
+    m_PathExists: 1
+    m_ContentTrackingEnabled: 1
+    m_ModificationDate:
+      serializedVersion: 2
+      ticks: 637708221228593936
+    m_Hash: 2730948826
 m_ProjectPath: C:/Users/Alistair/InterviewTests/OverSight/ar-calculator/AR Calculator/Packages
 m_EditorVersion: 2021.1.18f1 (25bdc3efbc2d)
 m_ResolvedPackages:
@@ -3926,6 +3940,60 @@ m_ResolvedPackages:
   - openxr
   - hololens
   - xreditorsubsystem
+  registry:
+    id: 
+    name: 
+    url: 
+    scopes: []
+    isDefault: 0
+    capabilities: 0
+  hasRegistry: 0
+  hideInEditor: 1
+  entitlements:
+    isAllowed: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+- packageId: com.microsoft.mixedreality.input@file:C:\Users\Alistair\InterviewTests\OverSight\ar-calculator\AR
+    Calculator\Packages\MixedReality\com.microsoft.mixedreality.input-0.9.2006.tgz
+  testable: 0
+  isDirectDependency: 1
+  version: 0.9.2006
+  source: 6
+  resolvedPath: C:\Users\Alistair\InterviewTests\OverSight\ar-calculator\AR Calculator\Library\PackageCache\com.microsoft.mixedreality.input@8efb1162593a-1635225322859
+  assetPath: Packages/com.microsoft.mixedreality.input
+  name: com.microsoft.mixedreality.input
+  displayName: Mixed Reality Input
+  author:
+    name: Microsoft
+    email: 
+    url: http://aka.ms/MR-Input
+  category: 
+  type: 
+  description: Provides access to additional inputs from Windows Mixed Reality controllers.
+  status: 4
+  errors: []
+  versions:
+    all: []
+    compatible: []
+    verified: 
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - microsoft
+  - mixed
+  - reality
+  - motioncontroller
+  - controller
   registry:
     id: 
     name: 
